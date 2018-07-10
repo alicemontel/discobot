@@ -3,7 +3,7 @@
 """
 Created on Tue Jul 10 17:08:13 2018
 
-@author: alice.montel
+@author: alice.montel & moi
 """
 class bot:
     def __init__(self):
