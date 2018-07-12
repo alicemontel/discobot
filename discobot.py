@@ -3,7 +3,7 @@
 """
 Created on Tue Jul 10 17:07:23 2018
 
-@author: alice.montel
+@author: Alice & Paul
 """
 from bot import bot
 
